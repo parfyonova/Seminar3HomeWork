@@ -17,10 +17,10 @@
 //     int i4 = i41 / 10;
 //     int i5 = num % 10;
 //     if((i1 == i5) && (i2 == i4)){
-//         Console.WriteLine($"Число {num} является полиноидом");
+//         Console.WriteLine($"Число {num} является палиндроном");
 //     }
 //     else{
-//         Console.WriteLine($"Число {num} не является полиноидом");
+//         Console.WriteLine($"Число {num} не является палиндроном");
 //     }
 // }
 
@@ -30,10 +30,10 @@
 // string num = Console.ReadLine()!;
 // if(num.Length == 5){
 //     if((num[0] == num[4]) && (num[1] == num[3])){
-//         Console.WriteLine($"Число {num} является полиноидом");
+//         Console.WriteLine($"Число {num} является палиндроном");
 //     }
 //     else{
-//         Console.WriteLine($"Число {num} не является полиноидом");
+//         Console.WriteLine($"Число {num} не является палиндроном");
 //     }
 // }
 // else{
